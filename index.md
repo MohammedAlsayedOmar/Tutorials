@@ -3,6 +3,14 @@ layout: post
 title: Tutorial Title
 ---
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 * A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
