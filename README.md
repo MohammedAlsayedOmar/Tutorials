@@ -1,6 +1,6 @@
 test
 
-[Help](..\Tutorials\Article1_Getting_Started_With_Unity_Part1_(Installation)\Article1_GettingStartedWithUnity.md)
+[Help](\Tuts\Article1_Getting_Started_With_Unity_Part1_(Installation)\Article1_GettingStartedWithUnity.md)
 
 ## Welcome to GitHub Pages
 
