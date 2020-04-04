@@ -1,4 +1,9 @@
-﻿# Getting Started With Unity (Part 1 Installation)
+﻿---
+layout: post
+title:  "Getting Started With Unity (Part 1 Installation)"
+---
+
+# Getting Started With Unity (Part 1 Installation)
 
 By the end of this tutorial, you will hopefully be able to install and start Unity.
 

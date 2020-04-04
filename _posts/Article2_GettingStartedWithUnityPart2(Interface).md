@@ -1,4 +1,9 @@
-﻿# Getting Started With Unity (Part 2 Interface)
+﻿---
+layout: post
+title:  "Getting Started With Unity (Part 2 Interface)"
+---
+
+# Getting Started With Unity (Part 2 Interface)
 
 By the end of this tutorial, you will hopefully understand Unity's interface and be comfortable creating your custom layout.
 
