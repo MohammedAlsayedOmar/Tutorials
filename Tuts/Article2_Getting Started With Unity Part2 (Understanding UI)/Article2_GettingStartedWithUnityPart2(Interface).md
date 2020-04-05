@@ -4,19 +4,22 @@ By the end of this tutorial, you will hopefully understand Unity's interface and
 
 This is where we left off last time. Last time was about installing Unity. If you have Unity installed, you are good to go. If not, then read [Part 1](https://boostlog.io/@mohammedalsayedomar/getting-started-with-unity-part-1-installation-5a99e4f98575ad004e55bccf).
 
-![](https://imgur.com/aXw31pv.jpg)
+![](Images\Capture.JPG)
+
 *Unity's Interface*
 
 
 ## Different Tabs
 Unity has a bunch of tabs for you. Each tab has it's own usability. We will go through some terminologies and the most important tabs.
 
-![](https://imgur.com/EtgtWi9.png)
+![](Images\1.JPG)
+
 *Overview of Tabs*
 
 All tabs can be found under **Window** drop down menu in case you are searching for something specific or closed something by mistake.
 
-![](https://imgur.com/rA1yQmc.png)
+![](Images\2.JPG)
+
 *Window Menu*
 
 ### Scene
@@ -26,41 +29,46 @@ By default, when creating a new Project, Unity creates a scene for you and adds 
 
 If you don't see the **Main Camera** and **Directional Light** under you scene name. Make sure you press the small arrow behind the word **Untitled**.
 
-![](https://imgur.com/T9CvmjM.png)
+![](Images\3.JPG)
 
 *Scene*
 
 ### Hierarchy Tab
 The Hierarchy is window on the left. It shows you the **GameObjects** that are currently in the scene.
 
-![](https://imgur.com/LEO8nuy.png)
+![](Images\4.JPG)
+
 *Hieracrhy Tab*
 
 ### Inspector Tab
 On the right, we have the inspector, where you view and edit the components of the selected object. It is where you change for example the position and rotation of an object in the scene.
 
-![](https://imgur.com/Yb1Puip.png)
+![](Images\6.JPG)
+
 *Inspector tab*
 
 ### Scene View
 The scene view is the place where you actually place and move stuff to design your unique game play or experiences.
 
-![](https://imgur.com/rIXPAt7.png)
+![](Images\5.JPG)
+
 *Scene View Tab*
 
 ### Game View
 The game is what the actual player will see when the game runs. It is exactly what the main camera see. So, make sure to later place the camera around where you want the game to start from.
 
-![](https://imgur.com/5NE0l0X.png)
+![](Images\9.JPG)
 
 *Game View Tab*
+
 ### Tools
 The tools are used to navigate or edit 2D and 3D objects in the scene.
 
-![](https://imgur.com/Ojsw9Li.png)
+![](Images\10.JPG)
+
 *Tools*
 
-![](https://imgur.com/VkRw8LY.png)
+![](Images\8.JPG)
 
 
 * **Hand tool** - Pan around the scene
@@ -78,22 +86,26 @@ You can create it in 3 different ways:
 * The **GameObject** drop down in the menu bard
 
 In all cases, we will go to *3D Objects* > Cube
-![](https://imgur.com/a7mfrbs.gif)
+![](Images\14.gif)
+
 *Cube creation*
 
-![](https://imgur.com/3RuBnc0.gif)
+![](Images\15.gif)
+
 *Cube Movement and rotation*
 
 ### Project Tab
 At the button, there is the Project tab that acts as your file explorer, it shows all the files used in the **Assets** folder of your project.
 
-![](https://imgur.com/MhJg6Vs.png)
+![](Images\7.JPG)
+
 *The Project Tab*
 
 ### Console
 The Console is where you’ll see any errors or warnings that we will get into it later when we start writing scripts.
 
-![](https://imgur.com/W1ht6MF.png)
+![](Images\11.JPG)
+
 *The Console Tab*
 
 ## Customization
@@ -102,8 +114,8 @@ All these tabs are movable and docakble.
 Click on any tab name and start dragging it around and it will snap.
 
 If you either like it and want to save it, or want to revert back to the default one. Click on the **Default** dropdown in the top right right to choose different layout and experiment with them.
-![](https://imgur.com/I7s5kTN.png)
-![](https://imgur.com/GQaMtlR.png)
+![](Images\12.JPG)
+![](Images\13.JPG)
 
 *Layouts*
 
@@ -112,14 +124,16 @@ Let's save our scene and call it a day.
 
 Press **Ctrl + S** on windows or **Cmd + S** on the Mac to save the scene.
 
-![](https://imgur.com/u1w1kwB.png)
+![](Images\16.JPG)
+
 *Saving*
 
 Save it inside the **Assets** folder and name it anything. Here I named it **Level1** for simplicity.
 
 You will find the freshly saved scene in the project tab inside the **Assets** folder.
 
-![](https://imgur.com/gcxhg2c.png)
+![](Images\Capture.JPG)
+
 *Saved*
 
 ## Summary
